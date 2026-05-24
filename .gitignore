@@ -1,3 +1,5 @@
 node_modules/
 .env
 *.log
+module-07-git-operations.md
+test.js
