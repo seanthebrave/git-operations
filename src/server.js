@@ -1,4 +1,4 @@
-const PORT = 8000;
+const PORT = 3000;
 
 function startServer() {
   console.log(`Server running on port ${PORT}`);
