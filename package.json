@@ -1,0 +1,10 @@
+{
+  "name": "git-practice-project",
+  "version": "1.0.0",
+  "description": "A simple project for practising Git operations with Claude Code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test/hello.test.js"
+  }
+}
